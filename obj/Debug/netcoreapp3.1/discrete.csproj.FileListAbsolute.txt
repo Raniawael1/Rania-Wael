@@ -1,0 +1,14 @@
+C:\Users\LAPTOP WORLD\source\repos\discrete\bin\Debug\netcoreapp3.1\discrete.exe
+C:\Users\LAPTOP WORLD\source\repos\discrete\bin\Debug\netcoreapp3.1\discrete.deps.json
+C:\Users\LAPTOP WORLD\source\repos\discrete\bin\Debug\netcoreapp3.1\discrete.runtimeconfig.json
+C:\Users\LAPTOP WORLD\source\repos\discrete\bin\Debug\netcoreapp3.1\discrete.runtimeconfig.dev.json
+C:\Users\LAPTOP WORLD\source\repos\discrete\bin\Debug\netcoreapp3.1\discrete.dll
+C:\Users\LAPTOP WORLD\source\repos\discrete\bin\Debug\netcoreapp3.1\discrete.pdb
+C:\Users\LAPTOP WORLD\source\repos\discrete\obj\Debug\netcoreapp3.1\discrete.csproj.AssemblyReference.cache
+C:\Users\LAPTOP WORLD\source\repos\discrete\obj\Debug\netcoreapp3.1\discrete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP WORLD\source\repos\discrete\obj\Debug\netcoreapp3.1\discrete.AssemblyInfoInputs.cache
+C:\Users\LAPTOP WORLD\source\repos\discrete\obj\Debug\netcoreapp3.1\discrete.AssemblyInfo.cs
+C:\Users\LAPTOP WORLD\source\repos\discrete\obj\Debug\netcoreapp3.1\discrete.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP WORLD\source\repos\discrete\obj\Debug\netcoreapp3.1\discrete.dll
+C:\Users\LAPTOP WORLD\source\repos\discrete\obj\Debug\netcoreapp3.1\discrete.pdb
+C:\Users\LAPTOP WORLD\source\repos\discrete\obj\Debug\netcoreapp3.1\discrete.genruntimeconfig.cache
